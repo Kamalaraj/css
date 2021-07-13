@@ -1,0 +1,32 @@
+.nav li {
+  display:inline-block;
+
+}
+ul{
+  list-style-type:none;
+  text-align:center;
+
+}
+
+
+a:active{
+  color:red;
+}
+
+
+.div{
+  color:blue;
+}
+table,th,td,tr{
+ border: 4px solid black;
+ border-collapse:collapse;
+ cell padding:50px;
+
+}
+th,td{
+ text-align:center;
+}
+h1{
+ text-align:center;
+ text-decoration:underline;
+}
